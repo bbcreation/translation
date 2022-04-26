@@ -1,8 +1,8 @@
 {
-    "name": "waavi/translation",
+    "name": "bbcreation/translation",
     "description": "A Translation package for Laravel 5 with database and cache support",
     "keywords": [
-        "waavi",
+        "bbcreation",
         "laravel-translator",
         "laravel",
         "translator",
